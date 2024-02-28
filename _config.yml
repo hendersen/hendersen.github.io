@@ -21,7 +21,7 @@ repository               : "hendersen/hendersen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   #Biographic information
-  avatar           : "profile.png"
+  avatar           : "Han-Dianqi-Picture.jpeg"
   name             : "Dianqi Han"
   #pronouns         : # example: "he/him"  
   bio              : "Assistant Professor, Computer Science and Engineering Department"
