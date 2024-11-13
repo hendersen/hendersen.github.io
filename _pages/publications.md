@@ -8,6 +8,8 @@ author_profile: true
 
 <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=9t5M1bsAAAAJ&hl=En}}">my Google Scholar profile</a>.</div>
 
+<p class="font_8" style="font-size:16px;"> Dianqi Han, Ang Li, Jiawei Li, Yan Zhang, Tao Li, Yanchao Zhang, &ldquo; WaveKey: Secure Mobile Ad Hoc Access to RFID-Protected Systems;, <span style="font-style:italic;">IEEE ICDCS 24</span>, 2024. <br />  
+
 <p class="font_8" style="font-size:16px;"> Ang Li, Jiawei Li, <span style="text-decoration:underline;"> Dianqi Han</span>, Yan Zhang, Tao Li, Ting Zhu, Yanchao Zhang, &ldquo; PhyAuth:Physical-Layer Message Authentication for ZigBee NetworksRFID&quot;, <span style="font-style:italic;">USENIX Security Symposium (USENIX&rsquo;23)</span>, 2023. <br />  
 
 <p class="font_8" style="font-size:16px;"> Ang Li, Jiawei Li, Yan Zhang, <span style="text-decoration:underline;"> Dianqi Han</span>, Tao Li, Yanchao Zhang, &ldquo; Secure UHF RFID Authentication with Smart Devices&quot;, <span style="font-style:italic;">IEEE Transactions on Wireless Communications</span>, 2023. <br /> 
