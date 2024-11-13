@@ -166,6 +166,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -189,6 +192,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _Team
+  - scope:
+      path: ""
+      type: team
     values:
       layout: single
       author_profile: true
