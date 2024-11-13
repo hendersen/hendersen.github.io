@@ -8,7 +8,7 @@ author_profile: true
 
 <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=9t5M1bsAAAAJ&hl=En}}">my Google Scholar profile</a>.</div>
 
-<p class="font_8" style="font-size:16px;"> Yan Zhang, Jiawei Li, Dianqi Han, and Yanchao Zhang, &ldquo; W-MIA: Membership Inference Attack against Deep Learning-based RF Fingerprinting &quot;, <span style="font-style:italic;">IEEE Conference on Communications and Network Security (CNS&rsquo;24)</span>, 2024. <br />  
+<p class="font_8" style="font-size:16px;"> Yan Zhang, Jiawei Li, <span style="text-decoration:underline;"> Dianqi Han</span>, and Yanchao Zhang, &ldquo; W-MIA: Membership Inference Attack against Deep Learning-based RF Fingerprinting &quot;, <span style="font-style:italic;">IEEE Conference on Communications and Network Security (CNS&rsquo;24)</span>, 2024. <br />  
 
 <p class="font_8" style="font-size:16px;"> <span style="text-decoration:underline;"> Dianqi Han</span>, Ang Li, Jiawei Li, Yan Zhang, Tao Li, Yanchao Zhang, &ldquo; WaveKey: Secure Mobile Ad Hoc Access to RFID-Protected Systems&quot;, <span style="font-style:italic;">IEEE International Conference on Distributed Computing Systems (ICDCS&rsquo;24)</span>, 2024. <br />  
 
