@@ -13,11 +13,13 @@ I'm an Assistant Professor in the Department of Computer Science and Engineering
 
 **News**
 
-  [July 31, 2025] *Our project on multimodal sensing-based security mechanisms has been funded by NSF CSR program*
+  [July 31, 2025] **Our project on multimodal sensing-based security mechanisms has been funded by NSF CSR program**
+  
   Grateful for the support! We will open-source datasets and tools as the project progresses.
             
-  [July 15, 2025] *Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!*
+  [July 15, 2025] **Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!**
 
-  [April 29, 2025] *Our project on mmWave-based remote diagnose on drone malfunctions has been funded by UTA REP program*
+  [April 29, 2025] **Our project on mmWave-based remote diagnose on drone malfunctions has been funded by UTA REP program**
+  
   Thank you for the support!
             
