@@ -12,6 +12,7 @@ I'm an Assistant Professor in the Department of Computer Science and Engineering
 **Openings**: I'm looking for highly motivated Ph.D. students to join my group. If you are interested, please send me an email with your CV and transcripts.
 
 **News**
+
   [July 31, 2025] *Our project on multimodal sensing-based security mechanisms has been funded by NSF CSR program*
   Grateful for the support! We will open-source datasets and tools as the project progresses.
             
