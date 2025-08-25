@@ -13,7 +13,7 @@ I'm an Assistant Professor in the Department of Computer Science and Engineering
 
 **News**
 
-  [July 31, 2025] **Our project on multimodal sensing-based security mechanisms has been funded by NSF CSR program**
+  [July 31, 2025] **Our project on multimodal sensing-based security mechanisms has been funded by NSF**
   
   Grateful for the support! We will open-source datasets and tools as the project progresses.
             
