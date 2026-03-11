@@ -1,0 +1,71 @@
+/* ==========================================================================
+   Custom styles
+   ========================================================================== */
+
+/*
+   Research area tags
+   ========================================================================== */
+
+.research-areas {
+  margin: 0.75em 0 1.5em;
+}
+
+.research-tag {
+  display: inline-block;
+  margin: 3px 5px 3px 0;
+  padding: 4px 12px;
+  font-size: 0.72em;
+  font-weight: 600;
+  color: #fff;
+  background-color: $info-color;
+  border-radius: 3px;
+  letter-spacing: 0.02em;
+}
+
+/*
+   News list
+   ========================================================================== */
+
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5em 0 0;
+}
+
+.news-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.1em;
+  padding-bottom: 1.1em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+}
+
+.news-date {
+  flex-shrink: 0;
+  min-width: 82px;
+  margin-right: 1em;
+  margin-top: 2px;
+  padding: 2px 7px;
+  font-size: 0.68em;
+  font-weight: 700;
+  color: #fff;
+  background-color: $primary-color;
+  border-radius: 3px;
+  text-align: center;
+  line-height: 1.8;
+  white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.news-content {
+  flex: 1;
+  font-size: 0.95em;
+  line-height: 1.55;
+}
