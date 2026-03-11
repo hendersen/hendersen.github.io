@@ -9,6 +9,6 @@ main:
   - title: "Members"
     url: /team/    
     
-  - title: "CV"
-    url: /cv/
+# - title: "CV"
+#   url: /cv/
     
