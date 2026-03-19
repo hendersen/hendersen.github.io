@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor in the Department of Computer Science and Engineering at the [University of Texas at Arlington (UTA)](https://www.uta.edu/). I received a Ph.D. in Computer Engineering from [Arizona State University (ASU)](https://www.asu.edu/), an M.Sc. in Electrical and Computer Engineering from [UC Davis](https://www.ucdavis.edu/), and a B.E. in Information Security from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).
+I am an Assistant Professor in the Department of Computer Science and Engineering at the [University of Texas at Arlington (UTA)](https://www.uta.edu/). I received my Ph.D. in Computer Engineering from [Arizona State University (ASU)](https://www.asu.edu/), M.Sc. in Electrical and Computer Engineering from [UC Davis](https://www.ucdavis.edu/), and B.E. in Information Security from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).
 
 ## Research Interests
 
-My research focuses on security and privacy of intelligent networked systems, spanning across wireless sensing and communication, AI security, cyberphysical systems, and mobile security.
+My research focuses on the security and privacy of intelligent networked systems, with an emphasis on wireless sensing and communication, AI security, cyber-physical systems, and mobile security.
 
 <body>
   <main class="container">
@@ -39,7 +39,7 @@ My research focuses on security and privacy of intelligent networked systems, sp
             <time datetime="2025-07-31"><small>July</small> 31, 2025</time>
           </div>
           <div class="news-item__content">
-            <h3> Our project on multimodal sensing-based security mechanisms has been funded by NSF CSR program</h3>
+            <h3> Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program.</h3>
             <p>Grateful for the support! We will open-source datasets and tools as the project progresses.</p>
             <div class="tags"><span class="tag">grant</span><span class="tag">NSF</span></div>
           </div>
@@ -68,7 +68,7 @@ My research focuses on security and privacy of intelligent networked systems, sp
             <time datetime="2025-04-28"><small>April</small> 28, 2025</time>
           </div>
           <div class="news-item__content">
-            <h3>Our project on mmWave-based remote diagnose on drone malfunctions has been funded by UTA REP program </h3>
+            <h3>Our project on mmWave-based remote diagnosis of drone malfunctions has been funded by the UTA REP program.</h3>
             <p>Thank you UTA for the support! </p>
             <div class="tags"><span class="tag">grant</span><span class="tag">NSF</span></div>
           </div>
