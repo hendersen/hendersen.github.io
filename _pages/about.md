@@ -28,32 +28,9 @@ My research focuses on the security and privacy of intelligent networked systems
         <!-- Example items; duplicate & edit as needed -->
 
 
-        <li class="news-item" data-tags="grant,nsf,service">
-          <div class="news-item__date">
-            <time datetime="2025-07-31"><small>July</small> 31, 2025</time>
-          </div>
-          <div class="news-item__content">
-            <h3> Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program.</h3>
-            <p>Grateful for the support! We will open-source datasets and tools as the project progresses.</p>
-          </div>
-        </li>
-
-        <li class="news-item" data-tags="paper,award,security">
-          <div class="news-item__date">
-            <time datetime="2025-07-01"><small>July</small> 01, 2025</time>
-          </div>
-          <div class="news-item__content">
-            <h3>
-              Paper accepted to <em>IEEE CNS 2025</em>
-              <span class="badge-new" hidden>New</span>
-            </h3>
-            <p>Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao! </p>
-          </div>
-        </li>
-
         <li class="news-item" data-tags="service">
           <div class="news-item__date">
-            <time datetime="2025-10-01"><small>Oct.</small> 2025</time>
+            <time datetime="2025-10">Oct. 2025</time>
           </div>
           <div class="news-item__content">
             <h3>Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</h3>
@@ -62,11 +39,34 @@ My research focuses on the security and privacy of intelligent networked systems
 
         <li class="news-item" data-tags="grant,nsf,service">
           <div class="news-item__date">
-            <time datetime="2025-04-28"><small>April</small> 28, 2025</time>
+            <time datetime="2025-07">July 2025</time>
+          </div>
+          <div class="news-item__content">
+            <h3>Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program.</h3>
+            <p>Grateful for the support! We will open-source datasets and tools as the project progresses.</p>
+          </div>
+        </li>
+
+        <li class="news-item" data-tags="paper,award,security">
+          <div class="news-item__date">
+            <time datetime="2025-07">July 2025</time>
+          </div>
+          <div class="news-item__content">
+            <h3>
+              Paper accepted to <em>IEEE CNS 2025</em>
+              <span class="badge-new" hidden>New</span>
+            </h3>
+            <p>Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!</p>
+          </div>
+        </li>
+
+        <li class="news-item" data-tags="grant,nsf,service">
+          <div class="news-item__date">
+            <time datetime="2025-04">Apr. 2025</time>
           </div>
           <div class="news-item__content">
             <h3>Our project on mmWave-based remote diagnosis of drone malfunctions has been funded by the UTA REP program.</h3>
-            <p>Thank you UTA for the support! </p>
+            <p>Thank you UTA for the support!</p>
           </div>
         </li>
 
