@@ -152,4 +152,17 @@
       {% endif %}      
     </ul>
   </div>
+
+  {% if page.permalink == "/" %}
+  <nav class="section-nav" aria-label="Page sections">
+    <ul>
+      <li><a href="#about" class="section-nav__link">About</a></li>
+      <li><a href="#news" class="section-nav__link">News</a></li>
+      <li><a href="#publications" class="section-nav__link">Publications</a></li>
+      <li><a href="#teaching" class="section-nav__link">Teaching</a></li>
+      <li><a href="#team" class="section-nav__link">Team</a></li>
+      <li><a href="/files/cv.pdf" class="section-nav__link" target="_blank">CV &#8599;</a></li>
+    </ul>
+  </nav>
+  {% endif %}
 </div>

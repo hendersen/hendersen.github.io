@@ -1,14 +1,2 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
-    url: /publications/  
-
-  - title: "Teaching"
-    url: /teaching/ 
-
-  - title: "Members"
-    url: /team/    
-    
-# - title: "CV"
-#   url: /cv/
-    

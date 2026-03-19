@@ -69,3 +69,38 @@
   font-size: 0.95em;
   line-height: 1.55;
 }
+
+/*
+   Section nav (scroll-spy)
+   ========================================================================== */
+
+.section-nav {
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 1px solid $border-color;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  &__link {
+    display: block;
+    padding: 5px 0;
+    color: $muted-text-color;
+    text-decoration: none;
+    font-size: 0.85em;
+    transition: color 0.15s, font-weight 0.15s;
+
+    &:hover {
+      color: $text-color;
+      text-decoration: none;
+    }
+
+    &.active {
+      color: $link-color;
+      font-weight: bold;
+    }
+  }
+}
