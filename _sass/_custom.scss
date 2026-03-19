@@ -35,8 +35,8 @@
 .news-item {
   display: flex;
   align-items: flex-start;
-  margin-bottom: 1.1em;
-  padding-bottom: 1.1em;
+  margin-bottom: 0.55em;
+  padding-bottom: 0.55em;
   border-bottom: 1px solid $border-color;
 
   &:last-child {
@@ -106,6 +106,35 @@
   border-radius: 0 4px 4px 0;
   font-size: 0.95em;
   line-height: 1.6;
+}
+
+/*
+   Page section consistency
+   ========================================================================== */
+
+#news, #publications, #teaching, #team {
+  margin-top: 2em;
+}
+
+#publications h2,
+#teaching h2,
+#team h2,
+.news__title {
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.75em;
+}
+
+#publications p,
+#teaching td,
+#teaching th,
+#team li {
+  font-size: 1em;
+  line-height: 1.6;
+}
+
+#publications p {
+  margin-bottom: 0.4em;
 }
 
 /*
