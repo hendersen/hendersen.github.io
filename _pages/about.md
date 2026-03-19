@@ -13,9 +13,7 @@ I am an Assistant Professor in the Department of Computer Science and Engineerin
 
 My research focuses on the security and privacy of intelligent networked systems, with an emphasis on wireless sensing and communication, AI security, cyber-physical systems, and mobile security.
 
-<body>
-  <main class="container">
-    <section id="news" class="news" aria-labelledby="news-title">
+<section id="news" class="news" aria-labelledby="news-title">
       <header class="news__header">
         <h2 id="news-title" class="news__title">News</h2>
         <div class="news__tools">
@@ -63,10 +61,9 @@ My research focuses on the security and privacy of intelligent networked systems
           </div>
         </li>
 
+      </ul>
       <div id="news-empty" class="news__empty" hidden>No news matched your filter.</div>
     </section>
-  </main>
-
   <script>
     // --- Simple client-side filter by text or tag ---
     const input = document.getElementById('news-filter');
@@ -104,4 +101,3 @@ My research focuses on the security and privacy of intelligent networked systems
     // Optional: ensure keyboard focus ring on search when using tab
     input.addEventListener('keydown', (e)=>{ if(e.key === 'Escape'){ input.value=''; applyFilter(); input.blur(); }});
   </script>
-</body>
