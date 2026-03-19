@@ -2,15 +2,14 @@
 permalink: /
 title: "Dianqi Han"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm an Assistant Professor in the Department of Computer Science and Engineering at the University of Texas at Arlington (UTA). I received a Ph.D. degree in Computer Engineering from [Arizona State University (ASU)](https://www.asu.edu/). Before that, I received a M.Sc. degree in Electrical and Computer Engineering from [University of California, Davis](https://www.ucdavis.edu/) , and a B.E. in Information Security from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests are security and privacy in networked systems, including mobile security, cyber-physical systems, wireless sensing, 5G and NextG systems, and smart grid.
+I'm an Assistant Professor in the Department of Computer Science and Engineering at the [University of Texas at Arlington (UTA)](https://www.uta.edu/). I received a Ph.D. in Computer Engineering from [Arizona State University (ASU)](https://www.asu.edu/), an M.Sc. in Electrical and Computer Engineering from [UC Davis](https://www.ucdavis.edu/), and a B.E. in Information Security from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).
 
-**Openings**: I'm looking for highly motivated Ph.D. students to join my group. If you are interested, please send me an email with your CV and transcripts.
-
+## Research Interests
 
 <body>
   <main class="container">
@@ -31,7 +30,7 @@ I'm an Assistant Professor in the Department of Computer Science and Engineering
 
       <ul id="news-list" class="news__list" role="list">
         <!-- Example items; duplicate & edit as needed -->
-  
+
 
         <li class="news-item" data-tags="grant,nsf,service">
           <div class="news-item__date">

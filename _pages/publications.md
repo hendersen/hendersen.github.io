@@ -8,11 +8,15 @@ author_profile: true
 
 <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=9t5M1bsAAAAJ&hl=En}}">my Google Scholar profile</a>.</div>
 
-<p class="font_8" style="font-size:16px;"> Yan Zhang, Jiawei Li, <span style="text-decoration:underline;"> Dianqi Han</span>, and Yanchao Zhang, &ldquo; W-MIA: Membership Inference Attack against Deep Learning-based RF Fingerprinting &quot;, <span style="font-style:italic;">IEEE Conference on Communications and Network Security (CNS&rsquo;24)</span>, 2024. <br />  
+<p class="font_8" style="font-size:16px;"> Aliu Akinwale, Wentao Gao, Jiawei Li, Ang Li, Xiaojun Shang, Yanchao Zhang, and <span style="text-decoration:underline;">Dianqi Han</span>, &ldquo;Practical Reflection Manipulation on mmWave-Based Physical Intrusion Detection,&rdquo; <span style="font-style:italic;">IEEE Conference on Communications and Network Security (CNS&rsquo;25)</span>, 2025. <br />
+
+<p class="font_8" style="font-size:16px;"> Yan Zhang, Jiawei Li, <span style="text-decoration:underline;"> Dianqi Han</span>, and Yanchao Zhang, &ldquo; W-MIA: Membership Inference Attack against Deep Learning-based RF Fingerprinting &quot;, <span style="font-style:italic;">IEEE Conference on Communications and Network Security (CNS&rsquo;24)</span>, 2024. <br />
 
 <p class="font_8" style="font-size:16px;"> <span style="text-decoration:underline;"> Dianqi Han</span>, Ang Li, Jiawei Li, Yan Zhang, Tao Li, Yanchao Zhang, &ldquo; WaveKey: Secure Mobile Ad Hoc Access to RFID-Protected Systems&quot;, <span style="font-style:italic;">IEEE International Conference on Distributed Computing Systems (ICDCS&rsquo;24)</span>, 2024. <br />  
 
 <p class="font_8" style="font-size:16px;"> Ang Li, Jiawei Li, <span style="text-decoration:underline;"> Dianqi Han</span>, Yan Zhang, Tao Li, Ting Zhu, Yanchao Zhang, &ldquo; PhyAuth:Physical-Layer Message Authentication for ZigBee NetworksRFID&quot;, <span style="font-style:italic;">USENIX Security Symposium (USENIX&rsquo;23)</span>, 2023. <br />  
+
+<p class="font_8" style="font-size:16px;"> Jiawei Li, Chuyu Wang, Ang Li, <span style="text-decoration:underline;">Dianqi Han</span>, Yan Zhang, Jinhang Zuo, Rui Zhang, Lei Xie, and Yanchao Zhang, &ldquo;Rhythmic RFID Authentication,&rdquo; <span style="font-style:italic;">IEEE/ACM Transactions on Networking</span>, 2023. <br />
 
 <p class="font_8" style="font-size:16px;"> Ang Li, Jiawei Li, Yan Zhang, <span style="text-decoration:underline;"> Dianqi Han</span>, Tao Li, Yanchao Zhang, &ldquo; Secure UHF RFID Authentication with Smart Devices&quot;, <span style="font-style:italic;">IEEE Transactions on Wireless Communications</span>, 2023. <br /> 
 
