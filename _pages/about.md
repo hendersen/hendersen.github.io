@@ -11,6 +11,8 @@ I'm an Assistant Professor in the Department of Computer Science and Engineering
 
 ## Research Interests
 
+My research focuses on security and privacy of intelligent networked systems, spanning across wireless sensing and communication, AI security, cyberphysical systems, and mobile security.
+
 <body>
   <main class="container">
     <section id="news" class="news" aria-labelledby="news-title">
