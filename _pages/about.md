@@ -21,10 +21,10 @@ redirect_from:
     <h2 id="news-title" class="news__title">News</h2>
   </header>
   <ul id="news-list" class="news__list" role="list">
-    <li class="news-item">[Oct. 2025] Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</li>
-    <li class="news-item">[July 2025] Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program. Grateful for the support! We will open-source datasets and tools as the project progresses.</li>
-    <li class="news-item">[July 2025] Paper accepted to <em>IEEE CNS 2025</em>. Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!</li>
-    <li class="news-item">[Apr. 2025] Our project on mmWave-based remote diagnosis of drone malfunctions has been funded by the UTA REP program. Thanks UTA for the support!</li>
+    <li class="news-item"><span class="news-date">Oct. 2025</span> Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</li>
+    <li class="news-item"><span class="news-date">July 2025</span> Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program. Grateful for the support! We will open-source datasets and tools as the project progresses.</li>
+    <li class="news-item"><span class="news-date">July 2025</span> Paper accepted to <em>IEEE CNS 2025</em>. Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!</li>
+    <li class="news-item"><span class="news-date">Apr. 2025</span> Our project on mmWave-based remote diagnosis of drone malfunctions has been funded by the UTA REP program. Thanks UTA for the support!</li>
   </ul>
   <div id="news-empty" class="news__empty" hidden>No news matched your filter.</div>
 </section>
