@@ -78,27 +78,13 @@ redirect_from:
 
 <div id="teaching">
 <h2>Teaching</h2>
-<table style="width:100%; font-size:16px; border-collapse:collapse;">
-  <thead>
-    <tr style="border-bottom:2px solid #ccc;">
-      <th style="text-align:left; padding:8px 12px;">Course</th>
-      <th style="text-align:left; padding:8px 12px;">Title</th>
-      <th style="text-align:left; padding:8px 12px;">Semesters</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:8px 12px;">CSE 2312</td>
-      <td style="padding:8px 12px;">Computer Organization &amp; Assembly Language Programming</td>
-      <td style="padding:8px 12px;">Fall 2022 – Present</td>
-    </tr>
-  </tbody>
-</table>
+<ul>
+  <li>CSE 2312: Computer Organization &amp; Assembly Language Programming, Fall 2022 – Present</li>
+</ul>
 </div>
 
 <div id="team">
 <h2>Team</h2>
-<h3>Current Students</h3>
 <ul>
   <li>Hongzhuo Chen (Ph.D. Student), Fall 2024 – present</li>
   <li>Shaikh Islam (Ph.D. Student), Fall 2024 – present</li>
