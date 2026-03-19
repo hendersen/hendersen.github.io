@@ -51,6 +51,15 @@ My research focuses on the security and privacy of intelligent networked systems
           </div>
         </li>
 
+        <li class="news-item" data-tags="service">
+          <div class="news-item__date">
+            <time datetime="2025-10-01"><small>Oct.</small> 2025</time>
+          </div>
+          <div class="news-item__content">
+            <h3>Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</h3>
+          </div>
+        </li>
+
         <li class="news-item" data-tags="grant,nsf,service">
           <div class="news-item__date">
             <time datetime="2025-04-28"><small>April</small> 28, 2025</time>
