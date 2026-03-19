@@ -109,6 +109,7 @@ redirect_from:
 
 <div id="team">
 <h2>Team</h2>
+<p>I am actively recruiting motivated Ph.D. students interested in cybersecurity, especially AI-related security research. If you are interested, please send me an email with your CV and transcripts.</p>
 <h3>Current Students</h3>
 <ul>
   <li>Hongzhuo Chen (Ph.D. Student), Fall 2024 – present</li>
