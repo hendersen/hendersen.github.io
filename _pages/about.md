@@ -37,7 +37,6 @@ My research focuses on the security and privacy of intelligent networked systems
           <div class="news-item__content">
             <h3> Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program.</h3>
             <p>Grateful for the support! We will open-source datasets and tools as the project progresses.</p>
-            <div class="tags"><span class="tag">grant</span><span class="tag">NSF</span></div>
           </div>
         </li>
 
@@ -51,11 +50,6 @@ My research focuses on the security and privacy of intelligent networked systems
               <span class="badge-new" hidden>New</span>
             </h3>
             <p>Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao! </p>
-            <div class="tags" aria-label="Tags">
-              <span class="tag">paper</span>
-              <span class="tag">security</span>
-              <span class="tag">award</span>
-            </div>
           </div>
         </li>
 
@@ -66,7 +60,6 @@ My research focuses on the security and privacy of intelligent networked systems
           <div class="news-item__content">
             <h3>Our project on mmWave-based remote diagnosis of drone malfunctions has been funded by the UTA REP program.</h3>
             <p>Thank you UTA for the support! </p>
-            <div class="tags"><span class="tag">grant</span><span class="tag">NSF</span></div>
           </div>
         </li>
 
