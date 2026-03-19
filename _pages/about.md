@@ -21,33 +21,10 @@ redirect_from:
     <h2 id="news-title" class="news__title">News</h2>
   </header>
   <ul id="news-list" class="news__list" role="list">
-    <li class="news-item">
-      <div class="news-item__date"><time datetime="2025-10">Oct. 2025</time></div>
-      <div class="news-item__content">
-        <h3>Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</h3>
-      </div>
-    </li>
-    <li class="news-item">
-      <div class="news-item__date"><time datetime="2025-07">July 2025</time></div>
-      <div class="news-item__content">
-        <h3>Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program.</h3>
-        <p>Grateful for the support! We will open-source datasets and tools as the project progresses.</p>
-      </div>
-    </li>
-    <li class="news-item">
-      <div class="news-item__date"><time datetime="2025-07">July 2025</time></div>
-      <div class="news-item__content">
-        <h3>Paper accepted to <em>IEEE CNS 2025</em>.</h3>
-        <p>Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!</p>
-      </div>
-    </li>
-    <li class="news-item">
-      <div class="news-item__date"><time datetime="2025-04">Apr. 2025</time></div>
-      <div class="news-item__content">
-        <h3>Our project on mmWave-based remote diagnosis of drone malfunctions has been funded by the UTA REP program.</h3>
-        <p>Thank you UTA for the support!</p>
-      </div>
-    </li>
+    <li class="news-item">[Oct. 2025] Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</li>
+    <li class="news-item">[July 2025] Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program. We will open-source datasets and tools as the project progresses.</li>
+    <li class="news-item">[July 2025] Paper accepted to <em>IEEE CNS 2025</em>. Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!</li>
+    <li class="news-item">[Apr. 2025] Our project on mmWave-based remote diagnosis of drone malfunctions has been funded by the UTA REP program.</li>
   </ul>
   <div id="news-empty" class="news__empty" hidden>No news matched your filter.</div>
 </section>
