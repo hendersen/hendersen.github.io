@@ -19,12 +19,6 @@ redirect_from:
 <section id="news" class="news" aria-labelledby="news-title">
   <header class="news__header">
     <h2 id="news-title" class="news__title">News</h2>
-    <div class="news__tools">
-      <label class="news__search" aria-label="Filter news">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-        <input id="news-filter" type="search" placeholder="Filter by text or tag…" aria-controls="news-list" />
-      </label>
-    </div>
   </header>
   <ul id="news-list" class="news__list" role="list">
     <li class="news-item">
@@ -115,24 +109,6 @@ redirect_from:
 </div>
 
 <script>
-  // --- News filter ---
-  const newsInput = document.getElementById('news-filter');
-  const newsList = document.getElementById('news-list');
-  const newsEmpty = document.getElementById('news-empty');
-  function normalize(s){ return (s || '').toLowerCase().trim(); }
-  function applyFilter(){
-    const q = normalize(newsInput.value);
-    let visible = 0;
-    for(const item of newsList.querySelectorAll('.news-item')){
-      const match = !q || normalize(item.textContent).includes(q) || normalize(item.getAttribute('data-tags')).includes(q);
-      item.style.display = match ? '' : 'none';
-      if(match) visible++;
-    }
-    newsEmpty.hidden = visible !== 0;
-  }
-  newsInput.addEventListener('input', applyFilter);
-  newsInput.addEventListener('keydown', (e)=>{ if(e.key === 'Escape'){ newsInput.value=''; applyFilter(); newsInput.blur(); }});
-
   // --- Scroll-spy ---
   const spySections = document.querySelectorAll('#about, #news, #publications, #teaching, #team');
   const spyLinks = document.querySelectorAll('.section-nav__link[href^="#"]');
