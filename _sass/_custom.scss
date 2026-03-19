@@ -3,95 +3,63 @@
    ========================================================================== */
 
 /*
-   Research area tags
+   Unified entry list — shared by News, Publications, Teaching, Team
    ========================================================================== */
 
-.research-areas {
-  margin: 0.75em 0 1.5em;
-}
-
-.research-tag {
-  display: inline-block;
-  margin: 3px 5px 3px 0;
-  padding: 4px 12px;
-  font-size: 0.72em;
-  font-weight: 600;
-  color: #fff;
-  background-color: $info-color;
-  border-radius: 3px;
-  letter-spacing: 0.02em;
-}
-
-/*
-   News list
-   ========================================================================== */
-
-.news-list {
+.entry-list {
   list-style: none;
   padding: 0;
-  margin: 0.5em 0 0;
+  margin: 0;
 }
 
-.news-item {
+.entry-item {
   display: flex;
-  align-items: flex-start;
-  margin-bottom: 0.55em;
-  padding-bottom: 0.55em;
+  align-items: baseline;
+  padding: 0.5em 0;
   border-bottom: 1px solid $border-color;
 
   &:last-child {
     border-bottom: none;
-    margin-bottom: 0;
     padding-bottom: 0;
   }
 }
 
-.news-date {
+.entry-label {
   flex-shrink: 0;
-  min-width: 82px;
-  margin-right: 1em;
-  margin-top: 2px;
-  padding: 2px 7px;
-  font-size: 0.68em;
-  font-weight: 700;
-  color: #fff;
-  background-color: $primary-color;
-  border-radius: 3px;
-  text-align: center;
-  line-height: 1.8;
-  white-space: nowrap;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.news-content {
-  flex: 1;
-  font-size: 0.95em;
-  line-height: 1.55;
-}
-
-.news-item__date {
-  flex-shrink: 0;
-  margin-right: 1em;
-  padding-top: 3px;
-  font-size: 0.85em;
+  width: 5.5em;
+  padding-right: 1em;
+  font-size: 0.82em;
   color: #888;
-  white-space: nowrap;
-  min-width: 70px;
+  line-height: 1.6;
 }
 
-.news-item__content {
+.entry-content {
   flex: 1;
+  font-size: 1em;
+  line-height: 1.6;
+}
 
-  h3 {
-    margin-top: 0;
-    font-size: 1em;
-  }
+/* Author self-name highlight */
+.self-name {
+  text-decoration: underline;
+}
 
-  p {
-    margin-top: 0.3em;
-    font-size: 0.95em;
-  }
+/*
+   Page sections — consistent spacing and headings
+   ========================================================================== */
+
+#news, #publications, #teaching, #team {
+  margin-top: 2em;
+}
+
+#about h2,
+#news h2,
+#publications h2,
+#teaching h2,
+#team h2 {
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.75em;
 }
 
 /*
@@ -106,35 +74,6 @@
   border-radius: 0 4px 4px 0;
   font-size: 0.95em;
   line-height: 1.6;
-}
-
-/*
-   Page section consistency
-   ========================================================================== */
-
-#news, #publications, #teaching, #team {
-  margin-top: 2em;
-}
-
-#publications h2,
-#teaching h2,
-#team h2,
-.news__title {
-  border-bottom: 1px solid $border-color;
-  padding-bottom: 0.3em;
-  margin-bottom: 0.75em;
-}
-
-#publications p,
-#teaching td,
-#teaching th,
-#team li {
-  font-size: 1em;
-  line-height: 1.6;
-}
-
-#publications p {
-  margin-bottom: 0.4em;
 }
 
 /*
