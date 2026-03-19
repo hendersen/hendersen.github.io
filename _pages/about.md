@@ -22,7 +22,7 @@ redirect_from:
   </header>
   <ul id="news-list" class="news__list" role="list">
     <li class="news-item">[Oct. 2025] Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</li>
-    <li class="news-item">[July 2025] Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program. We will open-source datasets and tools as the project progresses.</li>
+    <li class="news-item">[July 2025] Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program. Grateful for the support! We will open-source datasets and tools as the project progresses.</li>
     <li class="news-item">[July 2025] Paper accepted to <em>IEEE CNS 2025</em>. Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!</li>
     <li class="news-item">[Apr. 2025] Our project on mmWave-based remote diagnosis of drone malfunctions has been funded by the UTA REP program.</li>
   </ul>
