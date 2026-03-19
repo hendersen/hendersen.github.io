@@ -23,10 +23,6 @@ My research focuses on the security and privacy of intelligent networked systems
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
             <input id="news-filter" type="search" placeholder="Filter by text or tag…" aria-controls="news-list" />
           </label>
-          <a class="news__rss" href="/rss.xml" aria-label="RSS feed">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 18a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm-4-8a2 2 0 0 1 2-2c8.837 0 16 7.163 16 16a2 2 0 1 1-4 0C16 18.268 11.732 14 6 14a2 2 0 0 1-2-2Zm0-6a2 2 0 0 1 2-2C15.941 2 22 8.059 22 16a2 2 0 1 1-4 0c0-5.523-4.477-10-10-10a2 2 0 0 1-2-2Z"/></svg>
-            <span>RSS</span>
-          </a>
         </div>
       </header>
 
