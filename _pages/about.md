@@ -21,6 +21,7 @@ redirect_from:
     <h2 id="news-title" class="news__title">News</h2>
   </header>
   <ul id="news-list" class="news__list" role="list">
+    <li class="news-item"><span class="news-date">Jan. 2026</span> Our paper on RFID-based keystroke inference is accepted to <em>IEEE INFOCOM 2026</em>!</li>
     <li class="news-item"><span class="news-date">Oct. 2025</span> Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</li>
     <li class="news-item"><span class="news-date">Jul. 2025</span> Our project on multimodal sensing-based security mechanisms has been funded by the NSF CSR program. Grateful for the support! We will open-source datasets and tools as the project progresses.</li>
     <li class="news-item"><span class="news-date">Jul. 2025</span> Paper accepted to <em>IEEE CNS 2025</em>. Our work on mmWave sensing vulnerabilities was accepted to CNS 2025. Congratulations to Aliu and Wentao!</li>
