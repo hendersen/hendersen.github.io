@@ -21,6 +21,7 @@ redirect_from:
     <h2 id="news-title" class="news__title">News</h2>
   </header>
   <ul id="news-list" class="news__list" role="list">
+    <li class="news-item"><span class="news-date">Apr. 2026</span> I'm delighted and honored to receive an <em>NSF CAREER Award</em> for my project, "mmDrone: Protecting Drone-Integrated IoT Systems with Advanced mmWave Sensing." I'm grateful for this support!</li>
     <li class="news-item"><span class="news-date">Feb. 2026</span> Our paper on RIS-enhanced continuous location authentication is accepted to <em>IEEE S&P 2026</em>!</li>
     <li class="news-item"><span class="news-date">Jan. 2026</span> Our paper on RFID-based keystroke inference is accepted to <em>IEEE INFOCOM 2026</em>!</li>
     <li class="news-item"><span class="news-date">Oct. 2025</span> Invited to serve on the Technical Program Committee of <em>USENIX Security 2026</em> and <em>IEEE INFOCOM 2026</em>.</li>
