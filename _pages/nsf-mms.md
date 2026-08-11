@@ -29,9 +29,61 @@ permalink: /NSF-MSS/
         font-weight: 400;
         line-height: 1.1;
       }
+
+      .project-details {
+        display: flex;
+        align-items: flex-start;
+        gap: 30px;
+        margin: 22px 0;
+        padding: 22px 0;
+        border-top: 1px solid #eee;
+        border-bottom: 1px solid #eee;
+      }
+
+      .project-details img {
+        width: 70px;
+        height: auto;
+        flex: 0 0 auto;
+      }
+
+      .project-details p {
+        margin: 0 0 11px;
+      }
+
+      .project-details p:last-child {
+        margin-bottom: 0;
+      }
+
+      a {
+        color: #158cba;
+        text-decoration: none;
+      }
+
+      a:hover,
+      a:focus {
+        color: #158cba;
+        text-decoration: underline;
+      }
+
+      @media (max-width: 480px) {
+        .project-details {
+          gap: 18px;
+        }
+
+        .project-details img {
+          width: 52px;
+        }
+      }
     </style>
   </head>
   <body>
     <h1 class="project-number">NSF CISE Project 2523516/2523517/2523518</h1>
+    <section class="project-details" aria-label="Project information">
+      <img src="https://gemslab.github.io/images/logo/nsf.png" alt="National Science Foundation logo">
+      <div>
+        <p><strong>Principal Investigator:</strong> Qingzhong Liu (SHSU), Dianqi Han (UTA), Yanchao Zhang (ASU)</p>
+        <p><strong>NSF Project Website:</strong> <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2523517">Multimodal Sensing-Based Security Mechanisms for IoT Systems</a></p>
+      </div>
+    </section>
   </body>
 </html>
