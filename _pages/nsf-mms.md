@@ -85,5 +85,6 @@ permalink: /NSF-MSS/
         <p><strong>NSF Project Website:</strong> <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2523517">Multimodal Sensing-Based Security Mechanisms for IoT Systems</a></p>
       </div>
     </section>
+    <p>Multimodal sensing—the use of multiple sensor modalities to capture complementary information about the physical world—is becoming fundamental to mission-critical Internet-of-Things (IoT) systems, including smart cities, intelligent transportation, and defense applications. Despite its growing importance, its potential to strengthen IoT cybersecurity remains largely unexplored. This project develops <strong>Multimodal Sensing-Based Security (MSS)</strong>, a new security paradigm that harnesses heterogeneous sensing capabilities to protect mission-critical IoT systems. The project explores multimodal sensing for secure key establishment and sensor data validation, while developing techniques to facilitate the integration of new sensing modalities into existing security systems. It also develops a multimodal sensing testbed for experimental validation, student training, and cybersecurity education. Together, these efforts aim to establish a foundation for broader applications of multimodal sensing in cybersecurity and advance trustworthy mission-critical IoT systems.</p>
   </body>
 </html>
