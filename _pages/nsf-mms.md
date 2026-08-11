@@ -3,7 +3,6 @@ layout: null
 permalink: /NSF-MSS/
 ---
 
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
