@@ -122,5 +122,12 @@ permalink: /NSF-MSS/
         <!-- Add student names here. -->
       </ul>
     </section>
+
+    <section aria-labelledby="publications-heading">
+      <h2 id="publications-heading">Publications</h2>
+      <ul>
+        <!-- Add publication entries here. -->
+      </ul>
+    </section>
   </body>
 </html>
