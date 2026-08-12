@@ -101,7 +101,7 @@ permalink: /NSF-MSS/
     <section class="project-details" aria-label="Project information">
       <img src="https://gemslab.github.io/images/logo/nsf.png" alt="National Science Foundation logo">
       <div>
-        <p><strong>Principal Investigator:</strong> Qingzhong Liu (SHSU), Dianqi Han (UTA), Yanchao Zhang (ASU)</p>
+        <p><strong>Principal Investigator:</strong> Qingzhong Liu (SHSU, PI), Bing Zhou (SHSU, co-PI), Dianqi Han (UTA, PI), and Yanchao Zhang (ASU, PI)</p>
         <p><strong>NSF Project Website:</strong> <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2523517">Multimodal Sensing-Based Security Mechanisms for IoT Systems</a></p>
       </div>
     </section>
