@@ -130,7 +130,8 @@ permalink: /NSF-MSS/
     <section aria-labelledby="publications-heading">
       <h2 id="publications-heading">Publications</h2>
       <ul>
-        <!-- Add publication entries here. -->
+        <li>Yan Zhang, Jiawei Li, Yizhou Wang, Dianqi Han, Yanchao Zhang, Aditya Shekhawat, and Georgios Trichopoulos. <a href="https://doi.org/10.1109/SP63933.2026.00031"><em>RIS-CLA: Reviving CSI-Based Continuous Location Authentication with Reconfigurable Intelligent Surfaces</em></a>. In <em>Proceedings of the 47th IEEE Symposium on Security and Privacy (IEEE S&amp;P)</em>, pp. 2922&ndash;2937, 2026.</li>
+        <li>Jiawei Li, Yan Zhang, Dianqi Han, Ang Li, Tao Li, and Yanchao Zhang. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=9t5M1bsAAAAJ&amp;sortby=pubdate&amp;citation_for_view=9t5M1bsAAAAJ:3fE2CSJIrl8C"><em>TagStroke: Stealthy Keystroke Inference via Passive RFID Arrays Beneath Keyboards</em></a>. In <em>Proceedings of IEEE INFOCOM 2026&mdash;IEEE Conference on Computer Communications</em>, pp. 1&ndash;10, 2026.</li>
       </ul>
     </section>
   </body>
