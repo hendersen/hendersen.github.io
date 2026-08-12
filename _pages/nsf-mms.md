@@ -120,7 +120,10 @@ permalink: /NSF-MSS/
 
       <h3>Students</h3>
       <ul>
-        <!-- Add student names here. -->
+        <li>Luan Trinh, Ph.D. student, UTA</li>
+        <li>Shudong Lai, Ph.D. student, UTA</li>
+        <li>Abdualrhman Almeajel, Ph.D. student, ASU</li>
+        <li>Mingze Pan, Ph.D. student, ASU</li>
       </ul>
     </section>
 
