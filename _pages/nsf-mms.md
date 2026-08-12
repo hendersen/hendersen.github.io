@@ -113,6 +113,7 @@ permalink: /NSF-MSS/
       <h3>Faculty</h3>
       <ul>
         <li>Qingzhong Liu, Department of Computer Science, Sam Houston State University</li>
+        <li>Bing Zhou, Department of Computer Science, Sam Houston State University</li>
         <li>Dianqi Han, Department of Computer Science and Engineering, University of Texas at Arlington</li>
         <li>Yanchao Zhang, School of Electrical, Computer and Energy Engineering, Arizona State University</li>
       </ul>
