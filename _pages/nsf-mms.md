@@ -120,6 +120,8 @@ permalink: /NSF-MSS/
 
       <h3>Students</h3>
       <ul>
+        <li>Juli Dutta (female), Ph.D. student, SHSU</li>
+        <li>Berg Jeffrey, Ph.D. student, SHSU</li>
         <li>Luan Trinh, Ph.D. student, UTA</li>
         <li>Shudong Lai, Ph.D. student, UTA</li>
         <li>Abdualrhman Almeajel, Ph.D. student, ASU</li>
